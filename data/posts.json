@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Bienvenidos a mi Blog",
+        "content": "Primer Post",
+        "author": "Emilia Baez",
+        "date": "2025-07-30",
+        "image": "../images/fondo1"
+    },
+
+    {
+        "id": "2",
+        "title": "Articulo de prueba",
+        "content": "Segundo Post",
+        "author": "Emilia Baez",
+        "date": "2025-08-30",
+        "image": "../images/imagen2"
+    }
+]
+
